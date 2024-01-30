@@ -1,0 +1,10 @@
+.imgcenter{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.border{
+   border-radius: 2rem;
+   font-family: 'Poor Story', system-ui;
+   font-size: 1.5rem;
+}

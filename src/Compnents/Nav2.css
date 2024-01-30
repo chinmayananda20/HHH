@@ -1,0 +1,16 @@
+.mynav2{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Poor Story', system-ui;
+}
+@media screen and (max-width:1000px){
+    .mynav2{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .myform{
+        justify-content: center;
+        align-items: center;
+    }
+}
